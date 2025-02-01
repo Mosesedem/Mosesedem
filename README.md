@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my first PHP project
-- 🌱 I’m currently learning to code PHP
-- 👯 I’m looking to collaborate on anything that's both educative and productive
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently learning to make my codes simpler, shorter, smarter but effective! 😆 
+- 👯 I’m looking to collaborate on anything that's both educative and productive 
 - 🤔 I'm willing to learn... yeah 😄!
 - 💬 Ask me about 🤷‍♂️
 - 📫 How to reach me: Do me an email at mosesedem81@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Really?... That's not such a manly thing to be specific about.
 - ⚡ Fun fact: 🤷‍♂️
 -->
